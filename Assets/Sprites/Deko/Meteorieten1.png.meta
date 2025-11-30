@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 2e07ae9847c2de745b45d3b76ac559b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4218668312108873588
+    second: Meteorieten1_0
+  - first:
+      213: 7942512569070472279
+    second: Meteorieten1_1
+  - first:
+      213: 7104340730441370635
+    second: Meteorieten1_2
+  - first:
+      213: -4949354795700247815
+    second: Meteorieten1_3
+  - first:
+      213: 1875192786586313049
+    second: Meteorieten1_4
+  - first:
+      213: -2392310652749842136
+    second: Meteorieten1_5
+  - first:
+      213: 737631693844323890
+    second: Meteorieten1_6
+  - first:
+      213: -4280566509572431204
+    second: Meteorieten1_7
+  - first:
+      213: 2000595296146829068
+    second: Meteorieten1_8
+  - first:
+      213: -346985664562737007
+    second: Meteorieten1_9
+  - first:
+      213: 7465404536981181907
+    second: Meteorieten1_10
+  - first:
+      213: -6106181340927749793
+    second: Meteorieten1_11
+  - first:
+      213: 4677820977227894548
+    second: Meteorieten1_12
+  - first:
+      213: 5916455447669927972
+    second: Meteorieten1_13
+  - first:
+      213: 8159479570179565922
+    second: Meteorieten1_14
+  - first:
+      213: -5777414909742258599
+    second: Meteorieten1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteorieten1_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88cd8785874475c0800000000000000
+      internalID: -4218668312108873588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 43
+        width: 161
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c458fa919793e60800000000000000
+      internalID: 7942512569070472279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 49
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c0c410140b79260800000000000000
+      internalID: 7104340730441370635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 58
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f229ee390c505bb0800000000000000
+      internalID: -4949354795700247815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 53
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512ad977e5060a10800000000000000
+      internalID: 1875192786586313049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_5
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 47
+        width: 141
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8297676e22eccced0800000000000000
+      internalID: -2392310652749842136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 48
+        width: 138
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e19ae0e189c3a00800000000000000
+      internalID: 737631693844323890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_7
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 49
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92608f507f5894c0800000000000000
+      internalID: -4280566509572431204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_8
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 53
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f262e72da83cb10800000000000000
+      internalID: 2000595296146829068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_9
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 56
+        width: 161
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190d59160624f2bf0800000000000000
+      internalID: -346985664562737007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_10
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 53
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d55a5b7fd17a9760800000000000000
+      internalID: 7465404536981181907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_11
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 43
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5112ef1c6c724ba0800000000000000
+      internalID: -6106181340927749793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_12
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 35
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0a860565fae040800000000000000
+      internalID: 4677820977227894548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_13
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 32
+        width: 141
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4207ac702e87b1250800000000000000
+      internalID: 5916455447669927972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_14
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 35
+        width: 137
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692c94307b4c3170800000000000000
+      internalID: 8159479570179565922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteorieten1_15
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 40
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95664c8efbf72dfa0800000000000000
+      internalID: -5777414909742258599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Meteorieten1_0: -4218668312108873588
+      Meteorieten1_1: 7942512569070472279
+      Meteorieten1_10: 7465404536981181907
+      Meteorieten1_11: -6106181340927749793
+      Meteorieten1_12: 4677820977227894548
+      Meteorieten1_13: 5916455447669927972
+      Meteorieten1_14: 8159479570179565922
+      Meteorieten1_15: -5777414909742258599
+      Meteorieten1_2: 7104340730441370635
+      Meteorieten1_3: -4949354795700247815
+      Meteorieten1_4: 1875192786586313049
+      Meteorieten1_5: -2392310652749842136
+      Meteorieten1_6: 737631693844323890
+      Meteorieten1_7: -4280566509572431204
+      Meteorieten1_8: 2000595296146829068
+      Meteorieten1_9: -346985664562737007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

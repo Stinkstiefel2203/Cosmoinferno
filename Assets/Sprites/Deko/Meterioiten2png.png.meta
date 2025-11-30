@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 53520d0db1aa47142b2ef69e822a86b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4862299178406749765
+    second: Meterioiten2png_0
+  - first:
+      213: 358215683553097649
+    second: Meterioiten2png_1
+  - first:
+      213: -1455690249011215288
+    second: Meterioiten2png_2
+  - first:
+      213: -3221097884653107752
+    second: Meterioiten2png_3
+  - first:
+      213: 7567439162969274555
+    second: Meterioiten2png_4
+  - first:
+      213: 2618312730551055480
+    second: Meterioiten2png_5
+  - first:
+      213: 1288535241361282212
+    second: Meterioiten2png_6
+  - first:
+      213: -2851157158629210889
+    second: Meterioiten2png_7
+  - first:
+      213: 7615251001679262168
+    second: Meterioiten2png_8
+  - first:
+      213: -5851791974845434983
+    second: Meterioiten2png_9
+  - first:
+      213: -4367198200468357636
+    second: Meterioiten2png_10
+  - first:
+      213: -3955424575329740425
+    second: Meterioiten2png_11
+  - first:
+      213: 902881525834402054
+    second: Meterioiten2png_12
+  - first:
+      213: -7890506860173145039
+    second: Meterioiten2png_13
+  - first:
+      213: 3815690032344621337
+    second: Meterioiten2png_14
+  - first:
+      213: 1893487033498946560
+    second: Meterioiten2png_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meterioiten2png_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95467a8a4a58cb0800000000000000
+      internalID: -4862299178406749765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 43
+        width: 161
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f72b2443a8f400800000000000000
+      internalID: 358215683553097649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 49
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844cfac5e695ccbe0800000000000000
+      internalID: -1455690249011215288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 58
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54d7e3a8c5c43d0800000000000000
+      internalID: -3221097884653107752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 53
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b92023d1f40960800000000000000
+      internalID: 7567439162969274555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_5
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 47
+        width: 141
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f0675e8d165420800000000000000
+      internalID: 2618312730551055480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 48
+        width: 138
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a459ed99fbc1e110800000000000000
+      internalID: 1288535241361282212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_7
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 49
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f408199ba7ae68d0800000000000000
+      internalID: -2851157158629210889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_8
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 53
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b78e407ecea960800000000000000
+      internalID: 7615251001679262168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_9
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 56
+        width: 161
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933bd7f3324acea0800000000000000
+      internalID: -5851791974845434983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_10
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 53
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdbb5500689463c0800000000000000
+      internalID: -4367198200468357636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_11
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 43
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779de933e428b19c0800000000000000
+      internalID: -3955424575329740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_12
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 35
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094f9dc6fda78c00800000000000000
+      internalID: 902881525834402054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_13
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 32
+        width: 141
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cc89df0d94f7290800000000000000
+      internalID: -7890506860173145039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_14
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 35
+        width: 137
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91166e63edd04f430800000000000000
+      internalID: 3815690032344621337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meterioiten2png_15
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 40
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c4382cc64074a10800000000000000
+      internalID: 1893487033498946560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Meterioiten2png_0: -4862299178406749765
+      Meterioiten2png_1: 358215683553097649
+      Meterioiten2png_10: -4367198200468357636
+      Meterioiten2png_11: -3955424575329740425
+      Meterioiten2png_12: 902881525834402054
+      Meterioiten2png_13: -7890506860173145039
+      Meterioiten2png_14: 3815690032344621337
+      Meterioiten2png_15: 1893487033498946560
+      Meterioiten2png_2: -1455690249011215288
+      Meterioiten2png_3: -3221097884653107752
+      Meterioiten2png_4: 7567439162969274555
+      Meterioiten2png_5: 2618312730551055480
+      Meterioiten2png_6: 1288535241361282212
+      Meterioiten2png_7: -2851157158629210889
+      Meterioiten2png_8: 7615251001679262168
+      Meterioiten2png_9: -5851791974845434983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

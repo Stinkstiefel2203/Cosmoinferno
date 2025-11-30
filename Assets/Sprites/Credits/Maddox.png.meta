@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e329a72063dc4b141957352b0081fea9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1427125431520551013
+    second: Maddox_0
+  - first:
+      213: -4293594494975292615
+    second: Maddox_1
+  - first:
+      213: 7203352360978997298
+    second: Maddox_2
+  - first:
+      213: -5544860560283859062
+    second: Maddox_3
+  - first:
+      213: -42842784523238967
+    second: Maddox_4
+  - first:
+      213: -7295757905861485932
+    second: Maddox_5
+  - first:
+      213: -4836146922389407422
+    second: Maddox_6
+  - first:
+      213: 2176078666276867869
+    second: Maddox_7
+  - first:
+      213: -4812147505128144549
+    second: Maddox_8
+  - first:
+      213: 5807522298635165820
+    second: Maddox_9
+  - first:
+      213: -742300887393831731
+    second: Maddox_10
+  - first:
+      213: -8340449033962490417
+    second: Maddox_11
+  - first:
+      213: -282784363395292065
+    second: Maddox_12
+  - first:
+      213: 1927016506451582125
+    second: Maddox_13
+  - first:
+      213: -1989665929543703607
+    second: Maddox_14
+  - first:
+      213: -6547275904163981170
+    second: Maddox_15
+  - first:
+      213: 4057987627070679295
+    second: Maddox_16
+  - first:
+      213: 1038589908340117553
+    second: Maddox_17
+  - first:
+      213: 4860781135518997804
+    second: Maddox_18
+  - first:
+      213: -2029596932761359786
+    second: Maddox_19
+  - first:
+      213: 8739659790465032644
+    second: Maddox_20
+  - first:
+      213: -6029135929485234184
+    second: Maddox_21
+  - first:
+      213: 7100548963641819615
+    second: Maddox_22
+  - first:
+      213: 3151184935073050684
+    second: Maddox_23
+  - first:
+      213: 8178430756188479916
+    second: Maddox_24
+  - first:
+      213: 1585260727950414173
+    second: Maddox_25
+  - first:
+      213: -2431497973949337793
+    second: Maddox_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maddox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56065bbc40b2ec310800000000000000
+      internalID: 1427125431520551013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bcc652e861a64c0800000000000000
+      internalID: -4293594494975292615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 77
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ef1caec277f360800000000000000
+      internalID: 7203352360978997298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 77
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870537c2b2bc03b0800000000000000
+      internalID: -5544860560283859062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 77
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1cd47e6bac76ff0800000000000000
+      internalID: -42842784523238967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ad0e5d6d240ca90800000000000000
+      internalID: -7295757905861485932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 77
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24971614ffd82ecb0800000000000000
+      internalID: -4836146922389407422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 77
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0db2840cf23e10800000000000000
+      internalID: 2176078666276867869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b510e060751d73db0800000000000000
+      internalID: -4812147505128144549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702f43d2c6789050800000000000000
+      internalID: 5807522298635165820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4fe6a9641d2b5f0800000000000000
+      internalID: -742300887393831731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57a6f0bc5c04c80800000000000000
+      internalID: -8340449033962490417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e9c7ae19531cf0800000000000000
+      internalID: -282784363395292065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac5c578d432eba10800000000000000
+      internalID: 1927016506451582125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a9d7f0694364e0800000000000000
+      internalID: -1989665929543703607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d4dd01476325a0800000000000000
+      internalID: -6547275904163981170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff86a762f3ed05830800000000000000
+      internalID: 4057987627070679295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1301be9d400d96e00800000000000000
+      internalID: 1038589908340117553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d978170b6f47340800000000000000
+      internalID: 4860781135518997804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6989c75c65d3e0800000000000000
+      internalID: -2029596932761359786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ee645642894970800000000000000
+      internalID: 8739659790465032644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffec7cd0d4345ca0800000000000000
+      internalID: -6029135929485234184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1832089a73a8260800000000000000
+      internalID: 7100548963641819615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307794b0024bbb20800000000000000
+      internalID: 3151184935073050684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca16eba017f9f7170800000000000000
+      internalID: 8178430756188479916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519cd5ab3afff510800000000000000
+      internalID: 1585260727950414173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maddox_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3feaaea975914ed0800000000000000
+      internalID: -2431497973949337793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maddox_0: 1427125431520551013
+      Maddox_1: -4293594494975292615
+      Maddox_10: -742300887393831731
+      Maddox_11: -8340449033962490417
+      Maddox_12: -282784363395292065
+      Maddox_13: 1927016506451582125
+      Maddox_14: -1989665929543703607
+      Maddox_15: -6547275904163981170
+      Maddox_16: 4057987627070679295
+      Maddox_17: 1038589908340117553
+      Maddox_18: 4860781135518997804
+      Maddox_19: -2029596932761359786
+      Maddox_2: 7203352360978997298
+      Maddox_20: 8739659790465032644
+      Maddox_21: -6029135929485234184
+      Maddox_22: 7100548963641819615
+      Maddox_23: 3151184935073050684
+      Maddox_24: 8178430756188479916
+      Maddox_25: 1585260727950414173
+      Maddox_26: -2431497973949337793
+      Maddox_3: -5544860560283859062
+      Maddox_4: -42842784523238967
+      Maddox_5: -7295757905861485932
+      Maddox_6: -4836146922389407422
+      Maddox_7: 2176078666276867869
+      Maddox_8: -4812147505128144549
+      Maddox_9: 5807522298635165820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

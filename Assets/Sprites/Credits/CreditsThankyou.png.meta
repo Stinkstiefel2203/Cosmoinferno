@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 2f7c80f3df9cf734296257a917def3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1902958434048334512
+    second: CreditsThankyou_0
+  - first:
+      213: 955474157649580907
+    second: CreditsThankyou_1
+  - first:
+      213: -7136209814593971937
+    second: CreditsThankyou_2
+  - first:
+      213: 6287795249713229808
+    second: CreditsThankyou_3
+  - first:
+      213: -1133836821082286609
+    second: CreditsThankyou_4
+  - first:
+      213: 6853227707418576670
+    second: CreditsThankyou_5
+  - first:
+      213: -8888059684605703971
+    second: CreditsThankyou_6
+  - first:
+      213: -8577141653437074205
+    second: CreditsThankyou_7
+  - first:
+      213: -3404394065786346300
+    second: CreditsThankyou_8
+  - first:
+      213: 6780698208368709575
+    second: CreditsThankyou_9
+  - first:
+      213: -8086985607194699690
+    second: CreditsThankyou_10
+  - first:
+      213: 6768288017239408868
+    second: CreditsThankyou_11
+  - first:
+      213: -4640672587015192384
+    second: CreditsThankyou_12
+  - first:
+      213: 5864747604150754265
+    second: CreditsThankyou_13
+  - first:
+      213: 2673148339476302725
+    second: CreditsThankyou_14
+  - first:
+      213: -7739214545073973740
+    second: CreditsThankyou_15
+  - first:
+      213: 7747533690685670495
+    second: CreditsThankyou_16
+  - first:
+      213: 5054373910743827379
+    second: CreditsThankyou_17
+  - first:
+      213: 4987310354577606484
+    second: CreditsThankyou_18
+  - first:
+      213: -8336019241060337445
+    second: CreditsThankyou_19
+  - first:
+      213: 8836740005296906767
+    second: CreditsThankyou_20
+  - first:
+      213: 1809364619157393110
+    second: CreditsThankyou_21
+  - first:
+      213: 1071672746718683093
+    second: CreditsThankyou_22
+  - first:
+      213: 226163501070021789
+    second: CreditsThankyou_23
+  - first:
+      213: 489100345518494781
+    second: CreditsThankyou_24
+  - first:
+      213: -2750234208209271663
+    second: CreditsThankyou_25
+  - first:
+      213: 1431226222727135681
+    second: CreditsThankyou_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CreditsThankyou_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad8cb0d9aa86a10800000000000000
+      internalID: 1902958434048334512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d4ce1fa6824d00800000000000000
+      internalID: 955474157649580907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19587e9bf617fc90800000000000000
+      internalID: -7136209814593971937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffab87277cb24750800000000000000
+      internalID: 6287795249713229808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5d1262b6dc340f0800000000000000
+      internalID: -1133836821082286609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178c893a4e8b1f50800000000000000
+      internalID: 6853227707418576670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd84b9ccec447a480800000000000000
+      internalID: -8888059684605703971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43dae1c1fd7f880800000000000000
+      internalID: -8577141653437074205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c46b5962a921c0d0800000000000000
+      internalID: -3404394065786346300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc1f64811e91e50800000000000000
+      internalID: 6780698208368709575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658967bdf6145cf80800000000000000
+      internalID: -8086985607194699690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0861d771acded50800000000000000
+      internalID: 6768288017239408868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_12
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c001149ed4099fb0800000000000000
+      internalID: -4640672587015192384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9aba8fd4c36150800000000000000
+      internalID: 5864747604150754265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b0966704ee81520800000000000000
+      internalID: 2673148339476302725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41654581069c89490800000000000000
+      internalID: -7739214545073973740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_16
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c0bee7d4c48b60800000000000000
+      internalID: 7747533690685670495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b343e7ea4eb42640800000000000000
+      internalID: 5054373910743827379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c935f75c763540800000000000000
+      internalID: 4987310354577606484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_19
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f6c79aa2805c80800000000000000
+      internalID: -8336019241060337445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_20
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02a43c373862aa70800000000000000
+      internalID: 8836740005296906767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_21
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de4902e8872c1910800000000000000
+      internalID: 1809364619157393110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_22
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df52a76fa85fde00800000000000000
+      internalID: 1071672746718683093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ff66818e732300800000000000000
+      internalID: 226163501070021789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_24
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 0
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3496224c22a9c600800000000000000
+      internalID: 489100345518494781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_25
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 11
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940f8a1f8435d9d0800000000000000
+      internalID: -2750234208209271663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreditsThankyou_26
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c100e6aaacbcd310800000000000000
+      internalID: 1431226222727135681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CreditsThankyou_0: 1902958434048334512
+      CreditsThankyou_1: 955474157649580907
+      CreditsThankyou_10: -8086985607194699690
+      CreditsThankyou_11: 6768288017239408868
+      CreditsThankyou_12: -4640672587015192384
+      CreditsThankyou_13: 5864747604150754265
+      CreditsThankyou_14: 2673148339476302725
+      CreditsThankyou_15: -7739214545073973740
+      CreditsThankyou_16: 7747533690685670495
+      CreditsThankyou_17: 5054373910743827379
+      CreditsThankyou_18: 4987310354577606484
+      CreditsThankyou_19: -8336019241060337445
+      CreditsThankyou_2: -7136209814593971937
+      CreditsThankyou_20: 8836740005296906767
+      CreditsThankyou_21: 1809364619157393110
+      CreditsThankyou_22: 1071672746718683093
+      CreditsThankyou_23: 226163501070021789
+      CreditsThankyou_24: 489100345518494781
+      CreditsThankyou_25: -2750234208209271663
+      CreditsThankyou_26: 1431226222727135681
+      CreditsThankyou_3: 6287795249713229808
+      CreditsThankyou_4: -1133836821082286609
+      CreditsThankyou_5: 6853227707418576670
+      CreditsThankyou_6: -8888059684605703971
+      CreditsThankyou_7: -8577141653437074205
+      CreditsThankyou_8: -3404394065786346300
+      CreditsThankyou_9: 6780698208368709575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

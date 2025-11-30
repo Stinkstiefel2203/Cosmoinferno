@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: f301c1af4d4d041439ddab431271ee2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5024885158242155305
+    second: Moritz_0
+  - first:
+      213: 2436002966442459873
+    second: Moritz_1
+  - first:
+      213: -8103288574231240891
+    second: Moritz_2
+  - first:
+      213: -3391810828000898638
+    second: Moritz_3
+  - first:
+      213: -7226951160043862285
+    second: Moritz_4
+  - first:
+      213: 7186124088735369886
+    second: Moritz_5
+  - first:
+      213: -7024224355171088328
+    second: Moritz_6
+  - first:
+      213: 2950621629832673044
+    second: Moritz_7
+  - first:
+      213: -1790773832754608697
+    second: Moritz_8
+  - first:
+      213: -5223679699934661299
+    second: Moritz_9
+  - first:
+      213: 4559492148406503306
+    second: Moritz_10
+  - first:
+      213: -630491568553689938
+    second: Moritz_11
+  - first:
+      213: -9135806992052108548
+    second: Moritz_12
+  - first:
+      213: 1042867998892376187
+    second: Moritz_13
+  - first:
+      213: -6461847964976179536
+    second: Moritz_14
+  - first:
+      213: -8295827278443604177
+    second: Moritz_15
+  - first:
+      213: 1159890118023534760
+    second: Moritz_16
+  - first:
+      213: 2100634745931174243
+    second: Moritz_17
+  - first:
+      213: -8184644148888496714
+    second: Moritz_18
+  - first:
+      213: -2187339921610231940
+    second: Moritz_19
+  - first:
+      213: -703510882465883121
+    second: Moritz_20
+  - first:
+      213: 5694351950672953238
+    second: Moritz_21
+  - first:
+      213: 4763820605984196816
+    second: Moritz_22
+  - first:
+      213: -1578408687388510991
+    second: Moritz_23
+  - first:
+      213: -6001425412595994994
+    second: Moritz_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moritz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf72ead6afbb540800000000000000
+      internalID: 5024885158242155305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2c99e9acb6ec120800000000000000
+      internalID: 2436002966442459873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 77
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f177c89f55b8f80800000000000000
+      internalID: -8103288574231240891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1dea3c50edde0d0800000000000000
+      internalID: -3391810828000898638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60d70c536b4bb90800000000000000
+      internalID: -7226951160043862285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a03f4f8cd3ab360800000000000000
+      internalID: 7186124088735369886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83841673a21f48e90800000000000000
+      internalID: -7024224355171088328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b2c04db6b2f820800000000000000
+      internalID: 2950621629832673044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5c891efa4e527e0800000000000000
+      internalID: -1790773832754608697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b9f83df2c187b0800000000000000
+      internalID: -5223679699934661299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c3f5a3f1964f30800000000000000
+      internalID: 4559492148406503306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 77
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7a76424b0047f0800000000000000
+      internalID: -630491568553689938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2443eb1f7173180800000000000000
+      internalID: -9135806992052108548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b704a9d6be2097e00800000000000000
+      internalID: 1042867998892376187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6930f1387e256a0800000000000000
+      internalID: -6461847964976179536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279f5e1b0d4fdc80800000000000000
+      internalID: -8295827278443604177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8574fbae1c81010800000000000000
+      internalID: 1159890118023534760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361121afb24f62d10800000000000000
+      internalID: 2100634745931174243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5958cb28d4a6e80800000000000000
+      internalID: -8184644148888496714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f24692ee105a1e0800000000000000
+      internalID: -2187339921610231940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cdffa6490ac36f0800000000000000
+      internalID: -703510882465883121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff9eddde6660f40800000000000000
+      internalID: 5694351950672953238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8cf51f99d7c1240800000000000000
+      internalID: 4763820605984196816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f431dd59ad581ae0800000000000000
+      internalID: -1578408687388510991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moritz_24
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea6385267a6bca0800000000000000
+      internalID: -6001425412595994994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moritz_0: 5024885158242155305
+      Moritz_1: 2436002966442459873
+      Moritz_10: 4559492148406503306
+      Moritz_11: -630491568553689938
+      Moritz_12: -9135806992052108548
+      Moritz_13: 1042867998892376187
+      Moritz_14: -6461847964976179536
+      Moritz_15: -8295827278443604177
+      Moritz_16: 1159890118023534760
+      Moritz_17: 2100634745931174243
+      Moritz_18: -8184644148888496714
+      Moritz_19: -2187339921610231940
+      Moritz_2: -8103288574231240891
+      Moritz_20: -703510882465883121
+      Moritz_21: 5694351950672953238
+      Moritz_22: 4763820605984196816
+      Moritz_23: -1578408687388510991
+      Moritz_24: -6001425412595994994
+      Moritz_3: -3391810828000898638
+      Moritz_4: -7226951160043862285
+      Moritz_5: 7186124088735369886
+      Moritz_6: -7024224355171088328
+      Moritz_7: 2950621629832673044
+      Moritz_8: -1790773832754608697
+      Moritz_9: -5223679699934661299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
