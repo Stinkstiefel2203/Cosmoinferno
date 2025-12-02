@@ -1,0 +1,17 @@
+Music / Sounds:
+Credits music: https://www.youtube.com/watch?v=I0nkiy-LvOc
+Everything else: https://opengameart.org/content/space-game-assets
+
+Images / Sprites:
+Background: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYD6fS7VVTAH-v_wnlimwovo50d-voBh7XMK4QxNntxFJBFAEp
+Boss: AI (there where no good normal sprites)
+polish cow: https://www.youtube.com/watch?v=9hhMUT2U2L4
+Player: https://www.vhv.rs/dpng/d/23-234062_spaceship-sprite-png-transparent-png.png
+Enemy 1: https://i.pinimg.com/564x/29/99/a8/2999a865a97ca224a6c05a73a027086a.jpg
+Enemy 3: https://www.clipartmax.com/png/middle/218-2186592_sprites-spaceship-sprite.png
+Every text: fontmeme.com/pixel-fonts/
+Everything else: https://opengameart.org/content/space-game-assets
+
+Code:
+Universal Resolution Script: https://www.youtube.com/watch?v=xlHk1jHwarQ
+https://docs.unity.com/en-us
